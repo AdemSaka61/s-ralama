@@ -1,2 +1,2 @@
-# s-ralama
+# siralama
 sayıların sıralanması
